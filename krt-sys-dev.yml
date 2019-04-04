@@ -72,7 +72,7 @@ mybatis-plus:
 
 ###日志设置配置
 logging:
-  file: krt.log
+  file: ksm.log
   file.max-history: 7
   level:
     com:
